@@ -3,6 +3,7 @@ package com.ratheesh.Entity;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 
+// Configuring the table with database
 @Entity
 public class Account {
 	
